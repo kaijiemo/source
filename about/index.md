@@ -6,7 +6,7 @@ comments: false
 ---
 ### 这是我的博客
 
-我是king或者叫我kk,程序员一枚，目前就职于csair  
+我是king、kingboy或者叫我kk,程序员一枚，目前就职于csair  
 联系我：kaijiemo@live.com   
 新浪微博：https://weibo.com/mokaijie   
 github：https://github.com/kaijiemo  
